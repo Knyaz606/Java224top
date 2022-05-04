@@ -4,7 +4,7 @@ public class Task1 {
 
             Scanner num = new Scanner(System.in);
             int chislo, bad = 7;
-            System.out.print("Угадай число:");
+            System.out.println("Угадай число:");
             System.out.println("1");
             System.out.println("2");
             System.out.println("3");
