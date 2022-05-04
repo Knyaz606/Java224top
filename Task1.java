@@ -4,17 +4,7 @@ public class Task1 {
 
             Scanner num = new Scanner(System.in);
             int chislo, bad = 7;
-            System.out.println("Угадай число:");
-            System.out.println("1");
-            System.out.println("2");
-            System.out.println("3");
-            System.out.println("4");
-            System.out.println("5");
-            System.out.println("6");
-            System.out.println("7");
-            System.out.println("8");
-            System.out.println("9");
-            System.out.println("10");
+            System.out.println("Угадай число:\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10");
             chislo = num.nextInt();
 
             if (chislo == bad) {
