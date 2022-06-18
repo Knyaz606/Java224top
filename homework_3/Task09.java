@@ -17,7 +17,7 @@ public class Task09 {
         if (smoothY1 < smoothY2) {
             System.out.println("Ровная дорога");
 
-        } else if (slideX1 < breakageX2)  {
+        } else if (slideX1 == breakageX2)  {
             System.out.println("Обрыв");
 
         } else if (smoothY1 < slideX1){
