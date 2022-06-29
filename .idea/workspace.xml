@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4151ec41-fa52-4e67-935e-3bb14502fbda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork_4/experement11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5_1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5_1/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5_1/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5_1/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_5_1/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massivi_6/Uroc_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_4/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_4/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_4/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_4/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_4/experement11.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java224top/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java224top/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java224top/HomeWork_4/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java224top/HomeWork_4/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java224top/HomeWork_4/experement11.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +64,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Князь/OneDrive/Рабочий стол/Git1zadanie&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task11">
-    <configuration name="HomeWork_4.Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_4.Task12" />
-      <module name="Java224top" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task8">
     <configuration name="Task04" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_2.Task05.Task05.Task04" />
       <module name="Java224top" />
@@ -75,38 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_4.Task07" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_5_1.Task1" />
       <module name="Java224top" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_4.Task08" />
-      <module name="Java224top" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_4.Task11" />
-      <module name="Java224top" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork_4.*" />
+          <option name="PATTERN" value="HomeWork_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +109,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="experement11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_4.experement11" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_5_1.Task3" />
       <module name="Java224top" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork_4.*" />
+          <option name="PATTERN" value="HomeWork_5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_5_1.Task8" />
+      <module name="Java224top" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_5_1.Task9" />
+      <module name="Java224top" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_5_1.task2" />
+      <module name="Java224top" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +164,19 @@
     <list>
       <item itemvalue="Application.Task12" />
       <item itemvalue="Application.Task04" />
-      <item itemvalue="Application.Task11" />
-      <item itemvalue="Application.experement11" />
-      <item itemvalue="Application.HomeWork_4.Task12" />
-      <item itemvalue="Application.Task07" />
-      <item itemvalue="Application.Task08" />
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.Task8" />
+      <item itemvalue="Application.Task9" />
+      <item itemvalue="Application.task2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task11" />
-        <item itemvalue="Application.experement11" />
-        <item itemvalue="Application.Task07" />
-        <item itemvalue="Application.HomeWork_4.Task12" />
-        <item itemvalue="Application.Task08" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task9" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -201,5 +222,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
