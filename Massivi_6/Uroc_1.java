@@ -5,21 +5,18 @@ import java.util.Scanner;
 public class Uroc_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-// 1 задание в уроке 7 дней зарплата на каждый день.
-        System.out.println("Введите количество дней: ");
-        int size = sc.nextInt();
-        double [] income = new double[size];
-        System.out.println("Введите доход на каждый день: ");
-        for (int i = 0; i < income.length; i++) {
-            System.out.printf("День №%d:", i + 1);
-            income[i] = sc.nextDouble();
+        System.out.print("Введите количество чисел: ");
+        int[] number = new int[sc.nextInt()];
+        System.out.printf("Введите %d чисел: ", number.length);
+        for (int i = 0; i < number.length; i++) {
+            number[i] = sc.nextInt();
         }
-
-        for (int i = 0; i < income.length; i++) {
-            System.out.printf("%f\n", income[i]);
+        int min = number[0];
+        for (int i = 0; i < number.length; i++) {
+            if (min >= number[i]) {
+                min = number[i];
+            }
         }
-        sc.close();
+        System.out.println(min);
     }
 }
-
